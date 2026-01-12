@@ -56,7 +56,7 @@ export default function Dashboard() {
           <br />
           <a
             className="font-bold text-foreground mb-4 text-white"
-            href="https://dados.teresopolis.rj.gov.br/dataset/beneficios-programa-operacao-trabalho/resource/ca191569-d7eb-4bf1-8d6c-5bc5ca499ec9"
+            href="https://dados.teresopolis.rj.gov.br/dataset/estagiarios/resource/712619ad-ddce-40f0-8661-f4b92adcd06b"
           >
             Dados Abertos Compilados - Clique Aqui 🗎
           </a>
