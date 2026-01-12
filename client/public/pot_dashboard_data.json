@@ -1,0 +1,71 @@
+{
+  "total_participantes": 47,
+  "distribuicao_sexo": {
+    "Feminino": 24,
+    "Masculino": 23
+  },
+  "idade_media": 24,
+  "idade_minima": 18,
+  "idade_maxima": 43,
+  "faixa_etaria": {
+    "minima": 18,
+    "maxima": 43
+  },
+  "distribuicao_idade": {
+    "18 a 29 anos": 43,
+    "30 a 39 anos": 2,
+    "40 a 49 anos": 2
+  },
+  "distribuicao_instituicao": {
+    "Estácio de Sá Teresópolis": 4,
+    "Universidade Candido Mendes": 1,
+    "Unifeso": 42
+  },
+  "distribuicao_curso": {
+    "Administração": 2,
+    "Arquitetura e Urbanismo": 12,
+    "Ciência da Computação": 1,
+    "Ciências Contábeis": 7,
+    "Direito": 19,
+    "Engenharia Civil": 3,
+    "Nutrição": 1
+  },
+  "distribuicao_lotacao_agrupada": {
+    "Procuradoria Geral": 15,
+    "Secretaria de Administração": 6, 
+    "Secretaria de Educação": 2,
+    "Secretaria de Finanças e Orçamento": 7,
+    "Secretaria de Meio Ambiente": 3,
+    "Secretaria de Urbanismo": 14
+  },
+  "sexo_por_categoria_lotacao": {
+    "Feminino": {
+      "Procuradoria Geral": 5,
+      "Secretaria de Administração": 1, 
+      "Secretaria de Educação": 2,
+      "Secretaria de Finanças e Orçamento": 4,
+      "Secretaria de Meio Ambiente": 2,
+      "Secretaria de Urbanismo": 9
+    },
+    "Masculino": {
+      "Procuradoria Geral": 10,
+      "Secretaria de Administração": 5, 
+      "Secretaria de Educação": 0,
+      "Secretaria de Finanças e Orçamento": 3,
+      "Secretaria de Meio Ambiente": 1,
+      "Secretaria de Urbanismo": 5
+    }
+  },
+  "sexo_por_idade": {
+    "Feminino": {
+      "18 a 29 anos": 20,
+      "30 a 39 anos": 1,
+      "40 a 49 anos": 2
+    },
+    "Masculino": {
+      "18 a 29 anos": 23,
+      "30 a 39 anos": 1,
+      "40 a 49 anos": 0
+    }
+  }
+}
